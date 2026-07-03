@@ -1,7 +1,7 @@
 🏥 Zeecare – Full Stack Hospital Management System
 Zeecare is a robust, full-stack web application designed to streamline healthcare operations, bridge the gap between doctors and patients, and eliminate manual paperwork. Built using the MERN stack, it provides an intuitive platform for efficient appointment tracking, patient-doctor interactions, and centralized medical records.
 
-🔗 Live Demo: Vite + React (Replace with your actual live link if needed)
+🔗 Live Demo: (https://frontproject.onrender.com/)
 
 🚀 Key Features & Impact
 ⚡ Optimized Scheduling Workflow: Engineered an automated booking system that enables a 40% faster scheduling workflow compared to traditional methods.
